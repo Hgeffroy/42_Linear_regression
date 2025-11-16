@@ -30,8 +30,8 @@ python3 src/main.py --help
 ```
 
 ## 📌 Concepts Covered
-Simple linear regression: y = ax + b
-Feature normalization / standardization
-Gradient descent algorithm to determine coefficients a and b
-Model evaluation: Mean Squared Error (MSE), coefficient of determination (R²)
-Visualization of results (matplotlib, etc.)
+- Simple linear regression: y = ax + b
+- Feature normalization / standardization
+- Gradient descent algorithm to determine coefficients a and b
+- Model evaluation: Mean Squared Error (MSE), coefficient of determination (R²)
+- Visualization of results (matplotlib, etc.)
